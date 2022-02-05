@@ -3,7 +3,7 @@
   "title": "React Native Android Inapp Updates",
   "version": "1.0.23",
   "description": "TODO",
-  "main": "src/index.d.js",
+  "main": "src/index.d.ts",
   "types": "src/index.d.ts",
   "files": [
     "README.md",
